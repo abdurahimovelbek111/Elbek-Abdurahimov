@@ -1,4 +1,3 @@
-# Elbek-Abdurahimov
 <p>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" height="100"/>
 </p>
@@ -11,8 +10,7 @@
 > I'm Software Engineer from `Uzbekistan`. A software engineer building awesome web back/front stuff using .NET tech-stack at `Fincube.uz`.
 
 
-<p align="end">
-<a href="https://dev.to/abdurahimovelbek111"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>  
+<p align="end"> 
 <a href="https://www.linkedin.com/in/elbek-abdurahimov123/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://t.me/Uzmu_haker007"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 <a href="https://www.instagram.com/abdurahimovelbek111"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
@@ -39,7 +37,7 @@
 
 <div align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=xakimov1610&theme=algolia&hide_border=true&count_private=true&show_icons=true">
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=abdurahimovelbek111&theme=algolia&hide_border=true&count_private=true&show_icons=true">
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xakimov1610&theme=algolia&hide_border=true">
 
